@@ -1,6 +1,4 @@
 [
   {
-    "name": "ubuntu",
-    "imageUri": "394432115187.dkr.ecr.us-east-2.amazonaws.com/repo1:ubuntu"
   }
 ]
