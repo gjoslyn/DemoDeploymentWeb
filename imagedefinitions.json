@@ -1,6 +1,6 @@
 [
   {
-    "name": "gjweb",
+    "name": "busybox",
     "imageUri": "httpd:2.4"
   }
 ]
