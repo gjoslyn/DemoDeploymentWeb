@@ -1,5 +1,6 @@
 [
   {
-    "name": "httpd:2.4"
+    "name": "busybox",
+    "imageUri": "httpd:2.4"
   }
 ]
